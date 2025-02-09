@@ -47,13 +47,7 @@ li{
     padding: 10px 10px;
     width: 74%;
 }
-.pro{
-    background-color: rgb(228, 244, 239);
-    align-items: center;
-    margin: 20px 20px;
-    border: 2px dashed burlywood;
-    width: max-content;
-}
+
 .contact{
     text-align: center;
     justify-content: center;
